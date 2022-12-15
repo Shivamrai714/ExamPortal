@@ -6,6 +6,8 @@ Our approch is to desing the APIs and call them from the Frontend .
 
 First create the Api for the normal user then go to the othersections.
 
+STEP 1 : REFER TO THE VIDEO YouTube how to install the angular in the folder of "examfront" and other cli components Install node,npm etc . Refer to rar.file of project on drive for backend code of intellij idea and refresh all the project to download the dependencies. 
+Also refer to internet to use vs code terminal , ie error comes in loading npm , nodes etc.
 
 
 # STEP 3 :  CREATING the entity classes "1.User"  & "2.Roles" , then using the User_Roles class to maintain the many to many relationship.
