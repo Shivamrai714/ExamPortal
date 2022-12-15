@@ -1,0 +1,22 @@
+In order to restore the project
+Backend  :
+ 1. Install the my sql 64 bit intsaller and gui of it.
+ 2. Create the database exam.
+ 3. Reload the full project -  In maven categories(Inteli-j)
+
+ Frontend:
+ Install the node (npm)
+ Install the angular cli
+
+ Create the new frontend project using the cmd (refer steps of Video durgesh) , then copy the files of old
+
+ In Vs code run the ng serve at frontend project.
+ To solve ERROR of VS Code not running the Ng serve Command
+Video 25:
+To solve the error of VS code not running the ng commands just open the Powershell and run the command and press Y
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+ *Tradition way to create the frontend project is to install the node npm in computer , then intall the angular cli and then finally make the project and then run ng serve command
+
+_______________________________________________
